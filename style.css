@@ -1,3 +1,10 @@
+body {
+  width: 700px;
+  margin: 20px auto;
+  border: 1px solid #7d51e8;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgb(216, 213, 213);
+}
 h1 {
   text-align: center;
   color: #7d51e8;
